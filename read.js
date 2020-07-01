@@ -1,2 +1,1 @@
-Git is a distributed version control system.
-MMASONG
+var version = 0.1
